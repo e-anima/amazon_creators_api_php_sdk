@@ -1,6 +1,8 @@
 {
+    "name": "e-anima/amazon_creators_api_php_sdk",
     "version": "1.3.0",
     "description": "CreatorsAPI 1.2.0 PHP SDK",
+    "type": "library",
     "keywords": [
         "creatorsapi-php-sdk",
         "creatorsapi"
